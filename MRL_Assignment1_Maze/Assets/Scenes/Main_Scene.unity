@@ -408,6 +408,28 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 3eddd1c29199313478dd3f912bfab2ab, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &1621371186 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1000011070707148, guid: 3eddd1c29199313478dd3f912bfab2ab,
+    type: 2}
+  m_PrefabInternal: {fileID: 1621371185}
+--- !u!114 &1621371187
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1621371186}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c62fd7a55ba7458499b69cae18f83806, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PersistentKeywords: 0
+  RecognizerStart: 0
+  Keywords:
+  - Keyword: Reset
+    KeyCode: 0
+  recognitionConfidenceLevel: 1
 --- !u!1001 &1924021846
 Prefab:
   m_ObjectHideFlags: 0
@@ -526,3 +548,45 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d34f2e16cfff652468446ce91d909bcf, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &2028430918 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1128309580237104, guid: d34f2e16cfff652468446ce91d909bcf,
+    type: 2}
+  m_PrefabInternal: {fileID: 2028430917}
+--- !u!114 &2028430919
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2028430918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7d6513c2cdf97f409654a2a4114d9b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Keywords:
+  - Keyword: Reset
+    Response:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 2028430920}
+          m_MethodName: ResetGame
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 1
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  IsGlobalListener: 0
+  PersistentKeywords: 0
+--- !u!114 &2028430920 stripped
+MonoBehaviour:
+  m_PrefabParentObject: {fileID: 114051897110849152, guid: d34f2e16cfff652468446ce91d909bcf,
+    type: 2}
+  m_PrefabInternal: {fileID: 2028430917}
+  m_Script: {fileID: 11500000, guid: 7d7351bc8e9090441b14aa1fad86f03d, type: 3}
