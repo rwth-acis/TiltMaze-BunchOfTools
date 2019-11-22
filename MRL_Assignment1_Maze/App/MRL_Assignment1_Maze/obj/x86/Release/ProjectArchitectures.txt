@@ -1,0 +1,2 @@
+E:\MRL_Git_Uebung1\TiltMaze-BunchOfTools\MRL_Assignment1_Maze\App\MRL_Assignment1_Maze\MRL_Assignment1_Maze.csproj;x86
+E:\Unity_Projects\MRL_Assignment1_Maze\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86

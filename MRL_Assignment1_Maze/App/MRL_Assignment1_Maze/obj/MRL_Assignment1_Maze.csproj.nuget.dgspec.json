@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\MRL_Git_Uebung1\\TiltMaze-BunchOfTools\\MRL_Assignment1_Maze\\App\\MRL_Assignment1_Maze\\MRL_Assignment1_Maze.csproj": {}
+  },
+  "projects": {
+    "E:\\MRL_Git_Uebung1\\TiltMaze-BunchOfTools\\MRL_Assignment1_Maze\\App\\MRL_Assignment1_Maze\\MRL_Assignment1_Maze.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MRL_Git_Uebung1\\TiltMaze-BunchOfTools\\MRL_Assignment1_Maze\\App\\MRL_Assignment1_Maze\\MRL_Assignment1_Maze.csproj",
+        "projectName": "MRL_Assignment1_Maze",
+        "projectPath": "E:\\MRL_Git_Uebung1\\TiltMaze-BunchOfTools\\MRL_Assignment1_Maze\\App\\MRL_Assignment1_Maze\\MRL_Assignment1_Maze.csproj",
+        "projectJsonPath": "E:\\MRL_Git_Uebung1\\TiltMaze-BunchOfTools\\MRL_Assignment1_Maze\\App\\MRL_Assignment1_Maze\\project.json",
+        "packagesPath": "C:\\Users\\miriam\\.nuget\\packages\\",
+        "outputPath": "E:\\MRL_Git_Uebung1\\TiltMaze-BunchOfTools\\MRL_Assignment1_Maze\\App\\MRL_Assignment1_Maze\\obj\\",
+        "projectStyle": "ProjectJson",
+        "configFilePaths": [
+          "C:\\Users\\miriam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.10240": {
+            "projectReferences": {
+              "E:\\Unity_Projects\\MRL_Assignment1_Maze\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {
+                "projectPath": "E:\\Unity_Projects\\MRL_Assignment1_Maze\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj"
+              }
+            }
+          }
+        }
+      },
+      "dependencies": {
+        "Microsoft.ApplicationInsights": "[1.0.0, )",
+        "Microsoft.ApplicationInsights.PersistenceChannel": "[1.0.0, )",
+        "Microsoft.ApplicationInsights.WindowsApps": "[1.0.0, )",
+        "Microsoft.NETCore.UniversalWindowsPlatform": "[5.0.0, )"
+      },
+      "frameworks": {
+        "uap10.0.10240": {}
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "E:\\Unity_Projects\\MRL_Assignment1_Maze\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Unity_Projects\\MRL_Assignment1_Maze\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "E:\\Unity_Projects\\MRL_Assignment1_Maze\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
+        "projectJsonPath": "E:\\Unity_Projects\\MRL_Assignment1_Maze\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\project.json",
+        "packagesPath": "C:\\Users\\miriam\\.nuget\\packages\\",
+        "outputPath": "E:\\Unity_Projects\\MRL_Assignment1_Maze\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\obj\\",
+        "projectStyle": "ProjectJson",
+        "configFilePaths": [
+          "C:\\Users\\miriam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        }
+      },
+      "dependencies": {
+        "Microsoft.ApplicationInsights": "[1.0.0, )",
+        "Microsoft.ApplicationInsights.PersistenceChannel": "[1.0.0, )",
+        "Microsoft.ApplicationInsights.WindowsApps": "[1.0.0, )",
+        "Microsoft.NETCore.UniversalWindowsPlatform": "[5.0.0, )"
+      },
+      "frameworks": {
+        "uap10.0.10240": {}
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
