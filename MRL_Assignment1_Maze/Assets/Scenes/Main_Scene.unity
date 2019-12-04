@@ -381,11 +381,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1044240266}
   m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
-  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalPosition: {x: 0, y: 3.8, z: -1.035}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_Father: {fileID: 2028430926}
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &1174967497 stripped
 GameObject:
@@ -562,7 +562,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4045990802052416, guid: d34f2e16cfff652468446ce91d909bcf, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 1.035
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4045990802052416, guid: d34f2e16cfff652468446ce91d909bcf, type: 2}
       propertyPath: m_LocalRotation.x
@@ -738,7 +738,7 @@ MonoBehaviour:
   VolumeCastSizeOverride: 0
   UseLinkedAltScaleOverride: 0
   raycastDirection: 0
-  orientationMode: 2
+  orientationMode: 0
   OrientBlend: 0.65
   OnSurface: 0
 --- !u!114 &2028430924
@@ -770,3 +770,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f7fc31d93b642645ac85b58d0fa88d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!4 &2028430926 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 4045990802052416, guid: d34f2e16cfff652468446ce91d909bcf,
+    type: 2}
+  m_PrefabInternal: {fileID: 2028430917}
