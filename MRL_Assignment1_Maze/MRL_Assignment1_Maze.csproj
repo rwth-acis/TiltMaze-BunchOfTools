@@ -748,8 +748,10 @@
     <Compile Include="Assets\HoloToolkit\UX\Scripts\UsabilityScaler.cs" />
     <Compile Include="Assets\HoloToolkit\UX\Scripts\UsabilityUtilities.cs" />
     <Compile Include="Assets\Scripts\DoorInteraction.cs" />
+    <Compile Include="Assets\Scripts\DragLogic.cs" />
     <Compile Include="Assets\Scripts\FocusHighlight.cs" />
     <Compile Include="Assets\Scripts\MazeMover.cs" />
+    <Compile Include="Assets\Scripts\SnapLogic.cs" />
     <Compile Include="Assets\TiltMaze\Scripts\ConfettiManager.cs" />
     <Compile Include="Assets\TiltMaze\Scripts\DoorController.cs" />
     <Compile Include="Assets\TiltMaze\Scripts\GameController.cs" />
