@@ -11,7 +11,7 @@ public class SnapLogic : MonoBehaviour {
         solHan = GetComponent<SolverHandler>();
 	}
 	
-	public void switchMode () {
+	public void SwitchMode () {
         solHan.enabled = !solHan.enabled;
 	}
 }

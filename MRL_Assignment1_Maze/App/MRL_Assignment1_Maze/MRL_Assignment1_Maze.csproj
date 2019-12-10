@@ -359,8 +359,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="E:\Unity_Projects\MRL_Assignment1_Maze\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{162e21f4-cf22-434b-b89b-9a71b95ee6f7}</Project>
+    <ProjectReference Include="C:\Users\Emilie Hastrup-Kiil\Documents\GitHub\TiltMaze-BunchOfTools\MRL_Assignment1_Maze\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
+      <Project>{7e735185-98db-46fc-a0d3-4e274ecbafe3}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>

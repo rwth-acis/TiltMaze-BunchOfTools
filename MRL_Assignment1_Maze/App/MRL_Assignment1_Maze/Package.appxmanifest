@@ -16,7 +16,7 @@
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="MRLAssignment1Maze.App">
       <uap:VisualElements DisplayName="MRL_Assignment1_Maze" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="MRL_Assignment1_Maze" BackgroundColor="transparent">
-        <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" />
+        <uap:DefaultTile ShortName="MRL_Assignment1_Maze" Wide310x150Logo="Assets\Wide310x150Logo.png" />
         <uap:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#FFFFFF" />
         <uap:InitialRotationPreference>
           <uap:Rotation Preference="landscape" />
@@ -27,4 +27,8 @@
       </uap:VisualElements>
     </Application>
   </Applications>
+  <Capabilities>
+    <uap2:Capability Name="spatialPerception" />
+    <DeviceCapability Name="microphone" />
+  </Capabilities>
 </Package>

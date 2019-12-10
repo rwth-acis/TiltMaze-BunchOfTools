@@ -21,14 +21,4 @@ public class DoorInteraction : MonoBehaviour,IInputClickHandler {
         }
         door.DoorOpen = !door.DoorOpen;
     }
-
-    // Use this for initialization
-    void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 }

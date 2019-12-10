@@ -31,9 +31,5 @@ public class FocusHighlight : MonoBehaviour, IFocusable {
     void Start () {
         rend.material.color = defaultColor;
 	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+
 }

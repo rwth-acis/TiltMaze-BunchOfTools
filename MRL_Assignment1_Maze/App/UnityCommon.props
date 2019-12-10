@@ -1,9 +1,9 @@
 ﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
     <PropertyGroup>
         <UnityWSASolutionName>MRL_Assignment1_Maze</UnityWSASolutionName>
-        <UnityWSASolutionDir>E:\Unity_Projects\MRL_Assignment1_Maze\App\</UnityWSASolutionDir>
-        <UnityProjectDir>E:\Unity_Projects\MRL_Assignment1_Maze\</UnityProjectDir>
-        <UnityWSAPlayerDir>D:\UnityHub\2017.4.34f1\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSASolutionDir>C:\Users\Emilie Hastrup-Kiil\Documents\GitHub\TiltMaze-BunchOfTools\MRL_Assignment1_Maze\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Emilie Hastrup-Kiil\Documents\GitHub\TiltMaze-BunchOfTools\MRL_Assignment1_Maze\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Hub\Editor\2017.4.34f1\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
         <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
     </PropertyGroup>
 </Project>

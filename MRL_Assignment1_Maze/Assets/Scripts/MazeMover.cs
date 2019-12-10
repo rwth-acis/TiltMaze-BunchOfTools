@@ -35,9 +35,4 @@ public class MazeMover : MonoBehaviour, IManipulationHandler
     void Start () {
         startPosition = gameObject.transform.position;
     }
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 }
