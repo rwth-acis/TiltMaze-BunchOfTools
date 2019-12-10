@@ -8,7 +8,7 @@
 MRL_Assignment1_Maze.sln: modified
 GeneratedProjects\UWP\Assembly-CSharp\project.json: modified
 MRL_Assignment1_Maze\App.cs: modified
-MRL_Assignment1_Maze\MRL_Assignment1_Maze.csproj: 5AA93C3B12FD9F5150AEC65F7E18475D
+MRL_Assignment1_Maze\MRL_Assignment1_Maze.csproj: 3F8B936047B74AEFE12F4B0C86E6F806
 MRL_Assignment1_Maze\MRL_Assignment1_Maze.csproj.user: modified
 MRL_Assignment1_Maze\Package.appxmanifest: 77029077F680D41AD9C5BE1BB3903575
 MRL_Assignment1_Maze\project.json: 1D02BC64BAC0D041019673A1C4C51737
