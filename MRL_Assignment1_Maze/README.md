@@ -7,7 +7,9 @@ Tilte Maze Game for Hololense
 ### Prerequisites
 
 Unity 2017.4
+
 HoloToolKit
+
 Visual Studio 2017
 
 ### Installing
